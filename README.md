@@ -1,5 +1,8 @@
 # Receipts
 
+感谢您的支持，建议您付款后在Issue中说明支付额度、支付渠道以及支付时间，核实后您提供的信息将会被添加到感谢名单中。（请注意保护您的私人信息）  
+Thank you for your support, it is suggested to create an issue containing your billing information like amount, payment channel, and time of the payment so that I can add you to my gratitude list. (Personal information does NOT required)
+
 ## Alipay
 
 <div align="center">
@@ -44,8 +47,11 @@
 
 ## Donations
 
-| Name | Email | Amount | Payment
-| - | - | - | -
-| Anonymous | a***s@.com | 0 | WeChat
-| Anonymous | a***s@.com | 0 | Alipay
-| Anonymous | a***s@.com | 0 | AssetStore
+| Date | Name | Email | Amount | Payment
+| - | - | - | - | -
+| 2019-07-29 | Anonymous | - | $10.24 | AssetStore
+| 2019-07-23 | Anonymous | - | $10.24 | AssetStore
+| 2019-07-22 | Anonymous | - | $10.24 | AssetStore
+| - | Anonymous | a***s@.com | 0 | WeChat
+| - | Anonymous | a***s@.com | 0 | Alipay
+| - | Anonymous | a***s@.com | 0 | AssetStore
