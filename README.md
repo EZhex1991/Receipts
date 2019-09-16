@@ -49,6 +49,7 @@ Thank you for your support, it is suggested to create an issue containing your b
 
 | Date | Name | Email | Amount | Payment
 | - | - | - | - | -
+| 2019-09-16 | Anonymous | - | $10.24 | AssetStore
 | 2019-09-03 | Anonymous | - | $10.24 | AssetStore
 | 2019-07-29 | Anonymous | - | $10.24 | AssetStore
 | 2019-07-23 | Anonymous | - | $10.24 | AssetStore
