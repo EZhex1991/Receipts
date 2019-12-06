@@ -53,6 +53,7 @@ Thank you for your support, billing information like amount, payment channel, an
 | Date | Name | Email | Amount | Payment
 | - | - | - | - | -
 | 2019-12-06 | Anonymous | - | $10.24 | AssetStore
+| 2019-12-06 | Anonymous | - | $10.24 | AssetStore
 | 2019-12-04 | Anonymous | - | $10.24 | AssetStore
 | 2019-12-03 | Anonymous | - | $10.24 | AssetStore
 | 2019-09-27 | Anonymous | - | $10.24 | AssetStore
