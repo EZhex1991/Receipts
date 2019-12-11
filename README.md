@@ -4,7 +4,7 @@
 Thank you for your support, billing information like amount, payment channel, and time of the payment will be added to my gratitude list down below. (You can provide me these info by sending me an email, creating an issue, or simply leave a comment. Personal information does NOT required)
 
 **任何理由的退款请求都会被接受。**  
-**Refund request will be accepted for whatever reason.**
+**Refund request for any reason will be accepted.**
 
 ## Alipay
 
@@ -52,6 +52,7 @@ Thank you for your support, billing information like amount, payment channel, an
 
 | Date | Name | Email | Amount | Payment
 | - | - | - | - | -
+| 2019-12-10 | Anonymous | - | $10.24 | AssetStore
 | 2019-12-10 | Anonymous | - | $10.24 | AssetStore
 | 2019-12-06 | Anonymous | - | $10.24 | AssetStore
 | 2019-12-06 | Anonymous | - | $10.24 | AssetStore
