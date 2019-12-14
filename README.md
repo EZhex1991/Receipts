@@ -50,22 +50,10 @@ Thank you for your support, billing information like amount, payment channel, an
 
 ## Donations
 
-| Date | Name | Email | Amount | Payment
-| - | - | - | - | -
-| 2019-12-11 | Anonymous | - | $10.24 | AssetStore
-| 2019-12-10 | Anonymous | - | $10.24 | AssetStore
-| 2019-12-10 | Anonymous | - | $10.24 | AssetStore
-| 2019-12-06 | Anonymous | - | $10.24 | AssetStore
-| 2019-12-06 | Anonymous | - | $10.24 | AssetStore
-| 2019-12-04 | Anonymous | - | $10.24 | AssetStore
-| 2019-12-03 | Anonymous | - | $10.24 | AssetStore
-| 2019-09-27 | Anonymous | - | $10.24 | AssetStore
-| 2019-09-17 | Anonymous | - | $10.24 | AssetStore
-| 2019-09-16 | Anonymous | - | $10.24 | AssetStore
-| 2019-09-03 | Anonymous | - | $10.24 | AssetStore
-| 2019-07-29 | Anonymous | - | $10.24 | AssetStore
-| 2019-07-23 | Anonymous | - | $10.24 | AssetStore
-| 2019-07-22 | Anonymous | - | $10.24 | AssetStore
-| - | Anonymous | a***s@.com | 0 | WeChat
-| - | Anonymous | a***s@.com | 0 | Alipay
-| - | Anonymous | a***s@.com | 0 | AssetStore
+### AssetStore
+
+| Date | Price | Quantity | Refunds | Chargebacks | Gross
+| - | - | - | - | - | -
+| 2019-12 | $10.24 | 8 | 0 | 0 | $81.92
+| 2019-09 | $10.24 | 4 | 0 | 0 | $40.96
+| 2019-07 | $10.24 | 3 | 0 | 0 | $30.72
