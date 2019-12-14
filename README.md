@@ -50,10 +50,10 @@ Thank you for your support, billing information like amount, payment channel, an
 
 ## Donations
 
-### AssetStore
+### AssetStore (_I earn 70% for each sale_)
 
-| Date | Price | Quantity | Refunds | Chargebacks | Gross
+| Date | Price | Quantity | Refunds | Gross | Net(70%)
 | - | - | - | - | - | -
-| 2019-12 | $10.24 | 8 | 0 | 0 | $81.92
-| 2019-09 | $10.24 | 4 | 0 | 0 | $40.96
-| 2019-07 | $10.24 | 3 | 0 | 0 | $30.72
+| 2019-12 | $10.24 | 8 | 0 | $81.92 | $57.38
+| 2019-09 | $10.24 | 4 | 0 | $40.96 | $28.69
+| 2019-07 | $10.24 | 3 | 0 | $30.72 | $21.51
