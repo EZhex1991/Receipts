@@ -54,7 +54,7 @@ Thank you for your support, billing information like amount, payment channel, an
 
 | Date | Price | Quantity | Refunds | Gross | Net(70%)
 | - | - | - | - | - | -
-| 2020-01 | $10.24 | 1 | 0 | $10.24 | $7.17
+| 2020-01 | $10.24 | 3 | 0 | $30.72 | $21.51
 | 2019-12 | $10.24 | 9 | 0 | $92.16 | $64.55
 | 2019-09 | $10.24 | 4 | 0 | $40.96 | $28.69
 | 2019-07 | $10.24 | 3 | 0 | $30.72 | $21.51
