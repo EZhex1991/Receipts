@@ -1,7 +1,7 @@
 # Receipts
 
 感谢您的支持，我会将已知的支付额度、支付渠道以及支付时间等信息添加到下方的感谢名单中。（您可以通过邮件、Issue、留言等方式主动提供以上信息，请注意保护您的私人信息）  
-Thank you for your support, billing information like amount, payment channel, and time of the payment will be added to my gratitude list down below. (You can provide me these info by sending me an email, creating an issue, or simply leave a comment. Personal information does NOT required)
+Thank you for your support, billing information like amount, payment channel, and time of the payment will be added to my gratitude list down below. (You can provide me these info by sending me an email, creating an issue, or simply leave a comment. Personal information is NOT required)
 
 **任何理由的退款请求都会被接受。**  
 **Refund request for any reason will be accepted.**
