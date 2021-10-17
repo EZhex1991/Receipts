@@ -6,26 +6,30 @@ Thank you for your support, billing information like amount, payment channel, an
 **任何理由的退款请求都会被接受。**  
 **Refund request for any reason will be accepted.**
 
+## Paypal
+
+https://PayPal.Me/EZhex1991
+
 ## Alipay
 
 <div align="center">
+    <img src="QRCodes/Alipay.JPG" width="128px">
     <img src="QRCodes/Alipay-00.JPG" width="128px">
     <img src="QRCodes/Alipay-02.JPG" width="128px">
     <img src="QRCodes/Alipay-04.JPG" width="128px">
     <img src="QRCodes/Alipay-06.JPG" width="128px">
     <img src="QRCodes/Alipay-08.JPG" width="128px">
-    <img src="QRCodes/Alipay.JPG" width="128px">
 </div>
 
 ## WeChat
 
 <div align="center">
+    <img src="QRCodes/WeChat.JPG" width="128px">
     <img src="QRCodes/WeChat-00.JPG" width="128px">
     <img src="QRCodes/WeChat-02.JPG" width="128px">
     <img src="QRCodes/WeChat-04.JPG" width="128px">
     <img src="QRCodes/WeChat-06.JPG" width="128px">
     <img src="QRCodes/WeChat-08.JPG" width="128px">
-    <img src="QRCodes/WeChat.JPG" width="128px">
 </div>
 
 ---
@@ -45,3 +49,9 @@ Thank you for your support, billing information like amount, payment channel, an
 | 2019-12 | $10.24 | 9 | 0 | $92.16 | $64.55
 | 2019-09 | $10.24 | 4 | 0 | $40.96 | $28.69
 | 2019-07 | $10.24 | 3 | 0 | $30.72 | $21.51
+
+### WeChat
+
+| 日期 | 赞助者 | 金额
+| - | - | - 
+| 2021-05-22 | * | ￥30
